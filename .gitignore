@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+big_data/
+zips/
+extracted/
 
 # C extensions
 *.so
